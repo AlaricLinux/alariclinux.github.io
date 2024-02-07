@@ -3,6 +3,10 @@ Alaric Linux's home site for the moment.
 ###### Please review our [Contributor Agreement](CONTRIBUTOR_AGREEMENT) and our [Privacy Policy](PRIVACY_POLICY).
 ###### To submit issues, requests and the like, you can visit [Issues](https://github.com/AlaricLinux/alariclinux.github.io/issues).
 
+## What is Alaric Linux?
+Alaric Linux is a new, modern Linux distribution optimised for efficiency, mass compatibility and ease of use.
+###### Like Ubuntu is based on Debian, Alaric Linux is based on Ubuntu.
+
 ## Contribution and Terms of Use
 
 We welcome contributions to our project! If you're interested in contributing, please read our [Contributor Agreement](CONTRIBUTOR_AGREEMENT) carefully. By contributing, you agree to the terms outlined in this document.
